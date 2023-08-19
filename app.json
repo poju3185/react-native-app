@@ -5,6 +5,19 @@
       "bundler": "metro"
     },
     "name": "react_native_app",
-    "slug": "react_native_app"
+    "slug": "react_native_app",
+    "extra": {
+      "eas": {
+        "projectId": "f12c315f-235c-47d4-96e5-b7bf82387fc7"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f12c315f-235c-47d4-96e5-b7bf82387fc7"
+    },
+    "android": {},
+    "ios": {}
   }
 }
